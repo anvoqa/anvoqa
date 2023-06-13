@@ -48,6 +48,12 @@ Testing Strategy | Test Plan | Test Cases | Requirement Analaysis | Exploratory 
 
 ---
 
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anvoqa&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anvoqa&layout=compact&theme=blue-green)
+
+---
+
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
