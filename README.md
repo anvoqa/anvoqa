@@ -43,7 +43,7 @@
 
 ---
 
-### 🖥️: Testing Skills :
+### 🖥️ Testing Skills :
 Testing Strategy | Test Plan | Test Cases | Requirement Analaysis | Exploratory Testing | Regression Testing | Usuability Testing | UAT | Performance Testing | Bug Report | Root Cause Analaysis | Test Report
 
 ---
