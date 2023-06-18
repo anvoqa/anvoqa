@@ -48,6 +48,15 @@ Testing Strategy | Test Plan | Test Cases | Requirement Analaysis | Exploratory 
 
 ---
 
+### 🗞️ Certifications: 🗞️
+- [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/anvo/javascript-algorithms-and-data-structures), by freecodecamp.org
+- [Responsive Web Design](https://www.freecodecamp.org/certification/anvo/responsive-web-design), by freecodecamp.org
+- [Introduction to Robot Framework](https://testautomationu.applitools.com/certificate/?id=0de19848), by TAU (Test Automation University)
+- [Professional Scrum Master - PSM I](https://www.credly.com/badges/30f02acf-9b92-46db-8c6f-e103003793a4/public_url), by Scrum.org
+- [Project Managemen Profressional](https://www.credly.com/badges/72ec8239-cf89-451f-8c8e-95ff6feee95b/linked_in_profile), by PMI (Project Management Institute)
+
+---
+
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anvoqa&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anvoqa&layout=compact&theme=blue-green)
