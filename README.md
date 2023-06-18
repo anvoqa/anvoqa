@@ -28,6 +28,7 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://rest-assured.io/img/logo-transparent.png" title="Rest Assured" alt="Rest Assured" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/download/354202/postman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
   <img src="https://playwright.dev/img/playwright-logo.svg" title="Playwright" alt="Playwright" width="40" height="40"/>&nbsp;
   <img src="https://www.cypress.io/cypress_logo_social.png" title="Cypress" alt="Cypress" width="40" height="40"/>&nbsp;
