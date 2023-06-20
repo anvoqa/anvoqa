@@ -19,7 +19,7 @@
 - 👀 I’m interested in helping organizations deliver high quality products by building effective and efficient testing processes
 - 🌱 I’m currently exploring different tools and frameworks for front-end and API testing
 - 💞️ I’m looking for Sr. QA | QA Lead position where I have a chance to build QA team from scratch, or bring up the existing one to the next level
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anvoqa)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anvoqa) or email me at dvotran@yahoo.com
 
 ---
 
@@ -53,6 +53,7 @@ Testing Strategy | Test Plan | Test Cases | Requirement Analaysis | Exploratory 
 - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/anvo/javascript-algorithms-and-data-structures), by freecodecamp.org
 - [Responsive Web Design](https://www.freecodecamp.org/certification/anvo/responsive-web-design), by freecodecamp.org
 - [Introduction to Robot Framework](https://testautomationu.applitools.com/certificate/?id=0de19848), by TAU (Test Automation University)
+- [GitHub Actions for Testing](https://testautomationu.applitools.com/certificate/?id=2f0bafc4), by TAU (Test Automation University)
 - [Professional Scrum Master - PSM I](https://www.credly.com/badges/30f02acf-9b92-46db-8c6f-e103003793a4/public_url), by Scrum.org
 - [Project Managemen Profressional](https://www.credly.com/badges/72ec8239-cf89-451f-8c8e-95ff6feee95b/linked_in_profile), by PMI (Project Management Institute)
 
